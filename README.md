@@ -4,7 +4,8 @@
 
 ```sh
 Gerçek zamanlı, event-driven ve ölçeklenebilir bir Ethereum Management Platformu.
-Ethereum Manager; ekiplerin projelerini, görevlerini ve aktivitelerini anlık,
+Ethereum Manager; işlemlerin değerini anlık görebilen, firebase ve mysql destekli
+
 güvenli ve modüler bir mimari ile yönetmesini sağlayan modern bir full-stack uygulamadır.
 ```
 
