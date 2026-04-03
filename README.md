@@ -74,3 +74,13 @@ Güncel olmayanları listeler
 ```sh
 npm-check
 ```
+
+## Login
+
+```sh
+email: admin@admin.com
+```
+
+```sh
+password: a!1234567891
+```
